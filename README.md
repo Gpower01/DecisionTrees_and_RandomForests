@@ -40,12 +40,23 @@ You can **Download** the **Graphiz** from [Graphviz.org](https://graphviz.org/do
 ![Tree_visualisation](./images/Decision_tree_output.png)
 
 
-# Project 2: Loan Dataset
-- This project contains loan dataset from a **Lending Club** to predict default rates.
+# Project 2: Loan Dataset from LendingClub
+- LendingClub connects people who need money (borrowers) with people who have many to invest (investors).
+- LendingClub wants to create a model that will predict people with high probability of paying back their loans.
 
+- Lending club had a [very interesting year in 2016](https://en.wikipedia.org/wiki/Lending_Club#2016), so let's check out some of their data and keep the context in mind. This data is from before they  went public. 
 
+- The dataset is from 2007-2010 and this project be attempts to classify and predict whether or not the borrowers paid back their loan in full. Coplete dataset can be downloaded from [here](https://www.lendingclub.com/info/download-data.action).
 
+## Exploratory Data Analysis
+- Analysing purpose of loans
+![Data_Analysis](./images/Data_analysis.png)
 
+- Analysing relationships between FICO Score and Interest Rate
+![fico_score_interest_rate](./images/jointplot.png)
+
+## Linear Regression Model
+![fico_score_interest_rate_lm](./images/linear_regression_model.png)
 
 
 
