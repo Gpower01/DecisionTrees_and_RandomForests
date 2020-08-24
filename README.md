@@ -49,13 +49,13 @@ You can **Download** the **Graphiz** from [Graphviz.org](https://graphviz.org/do
 - The dataset is from 2007-2010 and this project be attempts to classify and predict whether or not the borrowers paid back their loan in full. Coplete dataset can be downloaded from [here](https://www.lendingclub.com/info/download-data.action).
 
 ## Exploratory Data Analysis
-- Analysing purpose of loans
+- **Analysing purpose of loans**
 ![Data_Analysis](./images/Data_analysis.png)
 
 - Analysing relationships between FICO Score and Interest Rate
 ![fico_score_interest_rate](./images/jointplot.png)
 
-## Linear Regression Model
+## Linear Regression Model
 ![fico_score_interest_rate_lm](./images/linear_regression_model.png)
 
 
