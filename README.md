@@ -1,7 +1,7 @@
 # DecisionTress_and_RandomForests
- This prooject documents machine learning algorithms using Decision Tress and Random Forests. For mathematical concepts regarding Decison Tress and Random Forest, checkout chapter 8 of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al. 
+ This prooject documents machine learning algorithms using Decision Trees and Random Forests. For mathematical concepts regarding Decison Trees and Random Forests, checkout chapter 8 of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al. 
 
-- **A Decision Treee** is an intuitive way of deciding whether an event will occur or not. A Decision Tree have:
+- **A Decision Tree** is an intuitive way of deciding whether an event will occur or not. A Decision Tree have:
  - Node: which are split for the value of a certain attribute
  - Edges: which are outcome of a split to node
  - Root: The node that performs the first split
