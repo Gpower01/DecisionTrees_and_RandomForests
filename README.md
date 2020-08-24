@@ -32,12 +32,12 @@ Checkout this [blog post](https://towardsdatascience.com/enchanted-random-forest
 ![Exploratory_Data_Analysis](./images/EDA.png)
 
 ## Decision Trees Visualisation library
-You can **Download** the **Graphiz** from `https://graphviz.org/download`
+You can **Download** the **Graphiz** from [Graphviz.org](https://graphviz.org/download)
 - Select the **Executable Package** that you want depending on your operating system.
 - Follow the instruction to setup the **PATH**
 
 ### Tree Visualisation
-![Kyphosis_Decision_Tree_Visualisation](./images/Decision_tree_output.png)
+![Tree_visualisation](./images/Decision_tree_output.png)
 
 
 # Project 2: Load Dataset
