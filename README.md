@@ -2,10 +2,10 @@
  This prooject documents machine learning algorithms using Decision Trees and Random Forests. For mathematical concepts regarding Decison Trees and Random Forests, checkout chapter 8 of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al. 
 
 - **A Decision Tree** is an intuitive way of deciding whether an event will occur or not. A Decision Tree have:
- - Node: which are split for the value of a certain attribute
- - Edges: which are outcome of a split to node
- - Root: The node that performs the first split
- - Leaves: Terminal nodes that predict the outcome
+ - **Node**: which are split for the value of a certain attribute
+ - **Edges**: which are outcome of a split to node
+ - **Root**: The node that performs the first split
+ - **Leaves**: Terminal nodes that predict the outcome
 
 **Note dwhile training a Decision Trees algorithm, it is important to split the training feature or dataset to get a perfect separation**.
 
@@ -40,7 +40,7 @@ You can **Download** the **Graphiz** from [Graphviz.org](https://graphviz.org/do
 ![Tree_visualisation](./images/Decision_tree_output.png)
 
 
-# Project 2: Load Dataset
+# Project 2: Loan Dataset
 - This project contains loan dataset from a **Lending Club** to predict default rates.
 
 
