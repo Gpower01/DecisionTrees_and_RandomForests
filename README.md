@@ -1,4 +1,4 @@
-# DecisionTress_and_RandomForests
+# DecisionTrees_and_RandomForests
  This prooject documents machine learning algorithms using Decision Trees and Random Forests. For mathematical concepts regarding Decison Trees and Random Forests, checkout chapter 8 of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al. 
 
 - **A Decision Tree** is an intuitive way of deciding whether an event will occur or not. A Decision Tree have:
